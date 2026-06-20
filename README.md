@@ -1,2 +1,14 @@
 # xingkongapp-base-hub
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
